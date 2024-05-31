@@ -5,3 +5,4 @@ nome = "Fellipe"
 print("meu nome é",nome, "e tenho",idade, "anos")
 print(idade)
 print(nome)
+print("testando se essa paradinha funciona")
